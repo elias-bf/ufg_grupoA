@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace InventarioPatrimonial.Models
+namespace Negocio.Dominio
 {
     public class BemPatrimonial
     {

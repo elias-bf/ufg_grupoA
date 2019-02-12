@@ -1,4 +1,4 @@
-﻿@model InventarioPatrimonial.Models.MovimentacaoModel
+﻿@model Negocio.Dominio.MovimentacaoModel
 
 @{
     ViewData["Title"] = "Movimentacao";
@@ -24,7 +24,7 @@
                         Bens patrimoniais
                     </button>
                     <div class="dropdown-menu" aria-labelledby="dropdownMenu2">
-                        @Html.LabelFor(x => x.BemPatrimonial.ListaDeBens.Select(item => item.Descricao))
+                        
                     </div>
                 </div>
             </div>

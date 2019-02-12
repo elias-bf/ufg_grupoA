@@ -6,6 +6,10 @@
     <UserSecretsId>554657bc-2cb3-45a9-bd88-3c6f4b441a3b</UserSecretsId>
   </PropertyGroup>
 
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <OutputPath>C:\Users\RUTEHELENA\Documents\github\ufg_grupoA\InventarioPatrimonial\Binarios\</OutputPath>
+  </PropertyGroup>
+
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.App" />
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
