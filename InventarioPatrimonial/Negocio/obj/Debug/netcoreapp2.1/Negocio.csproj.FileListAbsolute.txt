@@ -6,3 +6,7 @@ C:\Users\RUTEHELENA\Documents\github\ufg_grupoA\InventarioPatrimonial\Negocio\ob
 C:\Users\RUTEHELENA\Documents\github\ufg_grupoA\InventarioPatrimonial\Negocio\obj\Debug\netcoreapp2.1\Negocio.AssemblyInfo.cs
 C:\Users\RUTEHELENA\Documents\github\ufg_grupoA\InventarioPatrimonial\Negocio\obj\Debug\netcoreapp2.1\Negocio.dll
 C:\Users\RUTEHELENA\Documents\github\ufg_grupoA\InventarioPatrimonial\Negocio\obj\Debug\netcoreapp2.1\Negocio.pdb
+C:\Users\RUTEHELENA\Documents\github\ufg_grupoA\InventarioPatrimonial\Binarios\netcoreapp2.1\Negocio.deps.json
+C:\Users\RUTEHELENA\Documents\github\ufg_grupoA\InventarioPatrimonial\Binarios\netcoreapp2.1\Negocio.dll
+C:\Users\RUTEHELENA\Documents\github\ufg_grupoA\InventarioPatrimonial\Binarios\netcoreapp2.1\Negocio.pdb
+C:\Users\RUTEHELENA\Documents\github\ufg_grupoA\InventarioPatrimonial\Negocio\obj\Debug\netcoreapp2.1\Negocio.csprojAssemblyReference.cache

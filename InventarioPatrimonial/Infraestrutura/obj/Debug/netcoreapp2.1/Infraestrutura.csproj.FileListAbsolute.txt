@@ -6,3 +6,7 @@ C:\Users\RUTEHELENA\Documents\github\ufg_grupoA\InventarioPatrimonial\Infraestru
 C:\Users\RUTEHELENA\Documents\github\ufg_grupoA\InventarioPatrimonial\Infraestrutura\obj\Debug\netcoreapp2.1\Infraestrutura.AssemblyInfo.cs
 C:\Users\RUTEHELENA\Documents\github\ufg_grupoA\InventarioPatrimonial\Infraestrutura\obj\Debug\netcoreapp2.1\Infraestrutura.dll
 C:\Users\RUTEHELENA\Documents\github\ufg_grupoA\InventarioPatrimonial\Infraestrutura\obj\Debug\netcoreapp2.1\Infraestrutura.pdb
+C:\Users\RUTEHELENA\Documents\github\ufg_grupoA\InventarioPatrimonial\Binarios\netcoreapp2.1\Infraestrutura.deps.json
+C:\Users\RUTEHELENA\Documents\github\ufg_grupoA\InventarioPatrimonial\Binarios\netcoreapp2.1\Infraestrutura.dll
+C:\Users\RUTEHELENA\Documents\github\ufg_grupoA\InventarioPatrimonial\Binarios\netcoreapp2.1\Infraestrutura.pdb
+C:\Users\RUTEHELENA\Documents\github\ufg_grupoA\InventarioPatrimonial\Infraestrutura\obj\Debug\netcoreapp2.1\Infraestrutura.csprojAssemblyReference.cache
