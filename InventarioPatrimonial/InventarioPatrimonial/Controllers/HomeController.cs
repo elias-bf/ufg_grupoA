@@ -34,6 +34,21 @@ namespace InventarioPatrimonial.Controllers
             return View();
         }
 
+        public IActionResult Usuario()
+        {
+            return View();
+        }
+
+        public IActionResult OrdemDeServico()
+        {
+            return View();
+        }
+
+        public IActionResult Movimentacao()
+        {
+            return View();
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {

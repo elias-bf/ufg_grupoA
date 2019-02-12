@@ -1,0 +1,8 @@
+C:\Users\RUTEHELENA\Documents\github\ufg_grupoA\InventarioPatrimonial\Negocio\bin\Debug\netcoreapp2.1\Negocio.deps.json
+C:\Users\RUTEHELENA\Documents\github\ufg_grupoA\InventarioPatrimonial\Negocio\bin\Debug\netcoreapp2.1\Negocio.dll
+C:\Users\RUTEHELENA\Documents\github\ufg_grupoA\InventarioPatrimonial\Negocio\bin\Debug\netcoreapp2.1\Negocio.pdb
+C:\Users\RUTEHELENA\Documents\github\ufg_grupoA\InventarioPatrimonial\Negocio\obj\Debug\netcoreapp2.1\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\RUTEHELENA\Documents\github\ufg_grupoA\InventarioPatrimonial\Negocio\obj\Debug\netcoreapp2.1\Negocio.AssemblyInfoInputs.cache
+C:\Users\RUTEHELENA\Documents\github\ufg_grupoA\InventarioPatrimonial\Negocio\obj\Debug\netcoreapp2.1\Negocio.AssemblyInfo.cs
+C:\Users\RUTEHELENA\Documents\github\ufg_grupoA\InventarioPatrimonial\Negocio\obj\Debug\netcoreapp2.1\Negocio.dll
+C:\Users\RUTEHELENA\Documents\github\ufg_grupoA\InventarioPatrimonial\Negocio\obj\Debug\netcoreapp2.1\Negocio.pdb

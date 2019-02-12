@@ -1,0 +1,9 @@
+C:\Users\RUTEHELENA\Documents\github\ufg_grupoA\InventarioPatrimonial\Servicos\bin\Debug\netcoreapp2.1\Servicos.deps.json
+C:\Users\RUTEHELENA\Documents\github\ufg_grupoA\InventarioPatrimonial\Servicos\bin\Debug\netcoreapp2.1\Servicos.dll
+C:\Users\RUTEHELENA\Documents\github\ufg_grupoA\InventarioPatrimonial\Servicos\bin\Debug\netcoreapp2.1\Servicos.pdb
+C:\Users\RUTEHELENA\Documents\github\ufg_grupoA\InventarioPatrimonial\Servicos\obj\Debug\netcoreapp2.1\Servicos.csprojAssemblyReference.cache
+C:\Users\RUTEHELENA\Documents\github\ufg_grupoA\InventarioPatrimonial\Servicos\obj\Debug\netcoreapp2.1\Servicos.csproj.CoreCompileInputs.cache
+C:\Users\RUTEHELENA\Documents\github\ufg_grupoA\InventarioPatrimonial\Servicos\obj\Debug\netcoreapp2.1\Servicos.AssemblyInfoInputs.cache
+C:\Users\RUTEHELENA\Documents\github\ufg_grupoA\InventarioPatrimonial\Servicos\obj\Debug\netcoreapp2.1\Servicos.AssemblyInfo.cs
+C:\Users\RUTEHELENA\Documents\github\ufg_grupoA\InventarioPatrimonial\Servicos\obj\Debug\netcoreapp2.1\Servicos.dll
+C:\Users\RUTEHELENA\Documents\github\ufg_grupoA\InventarioPatrimonial\Servicos\obj\Debug\netcoreapp2.1\Servicos.pdb
