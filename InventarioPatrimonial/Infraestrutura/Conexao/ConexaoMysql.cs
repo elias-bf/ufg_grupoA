@@ -2,7 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
-using Microsoft.Extensions.Configuration;
+
 
 namespace Infraestrutura.Conexao
 {
@@ -25,7 +25,7 @@ namespace Infraestrutura.Conexao
             }
         }
 
-        private MySqlConnection ObtenhaConexao(bool aberta = true,
+        public MySqlConnection ObtenhaConexao(bool aberta = true,
             bool converterDataZerada = false, bool permitirValorZeroData = false)
         {
             //string cs = "Server=localhost;Database=tests;Uid=test;Pwd=pass;";
