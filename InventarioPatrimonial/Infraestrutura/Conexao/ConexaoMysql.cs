@@ -32,7 +32,7 @@ namespace Infraestrutura.Conexao
 
             StringBuilder conexaoString = new StringBuilder();
             conexaoString.AppendFormat("Server={0}", "inventariopatrimonialaplicacao-mysqldbserver.mysql.database.azure.com;");
-            conexaoString.AppendFormat("Database={0}", "inventariopatrimonialaplicacao-mysqldbserver;");
+            conexaoString.AppendFormat("Database={0}", "inventario;");
             conexaoString.AppendFormat("Uid={0}", "mysqldbuser@inventariopatrimonialaplicacao-mysqldbserver;");
             conexaoString.AppendFormat("Pwd={0}", "123@Fernando;");
 

@@ -16,3 +16,4 @@ C:\Users\RUTEHELENA\Documents\github\fork\ufg_grupoA\InventarioPatrimonial\Servi
 C:\Users\RUTEHELENA\Documents\github\fork\ufg_grupoA\InventarioPatrimonial\Servicos\obj\Debug\netcoreapp2.1\Servicos.AssemblyInfo.cs
 C:\Users\RUTEHELENA\Documents\github\fork\ufg_grupoA\InventarioPatrimonial\Servicos\obj\Debug\netcoreapp2.1\Servicos.dll
 C:\Users\RUTEHELENA\Documents\github\fork\ufg_grupoA\InventarioPatrimonial\Servicos\obj\Debug\netcoreapp2.1\Servicos.pdb
+C:\Users\RUTEHELENA\Documents\github\fork\ufg_grupoA\InventarioPatrimonial\Servicos\obj\Debug\netcoreapp2.1\Servicos.csproj.CopyComplete

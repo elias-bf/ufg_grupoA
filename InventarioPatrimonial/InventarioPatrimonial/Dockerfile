@@ -9,6 +9,7 @@ EXPOSE 443
 FROM microsoft/dotnet:2.1-sdk-nanoserver-1709 AS build
 WORKDIR /src
 COPY ["InventarioPatrimonial/InventarioPatrimonial.csproj", "InventarioPatrimonial/"]
+COPY ["Negocio/Negocio.csproj", "Negocio/"]
 RUN dotnet restore "InventarioPatrimonial/InventarioPatrimonial.csproj"
 COPY . .
 WORKDIR "/src/InventarioPatrimonial"

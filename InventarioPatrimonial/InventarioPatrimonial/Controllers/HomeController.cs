@@ -5,6 +5,8 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using InventarioPatrimonial.Models;
+using Negocio.Dominio;
+using Servicos;
 
 namespace InventarioPatrimonial.Controllers
 {
@@ -44,7 +46,32 @@ namespace InventarioPatrimonial.Controllers
             return View();
         }
 
-        public IActionResult Movimentacao()
+        public IActionResult Movimentacao(MovimentacaoModel item)
+        {
+            try
+            {
+                using (var servico = new ServicoDeMovimentacao())
+                {
+                    servico.Salve(item);
+                }
+                ViewData["Message"] = "Registro realizado com sucesso!";
+            }
+            catch (Exception e)
+            {
+
+            }
+            
+            return View();
+            
+            
+        }
+
+        public IActionResult TelaDeCadastroMovimentacao()
+        {
+            return View("Movimentacao");
+        }
+
+        public IActionResult CadastroDeMovimentacao(MovimentacaoModel item)
         {
             return View();
         }

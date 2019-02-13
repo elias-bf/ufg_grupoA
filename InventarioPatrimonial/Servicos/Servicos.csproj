@@ -8,4 +8,9 @@
     <OutputPath>C:\Users\RUTEHELENA\Documents\github\ufg_grupoA\InventarioPatrimonial\Binarios\</OutputPath>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Infraestrutura\Infraestrutura.csproj" />
+    <ProjectReference Include="..\Negocio\Negocio.csproj" />
+  </ItemGroup>
+
 </Project>
