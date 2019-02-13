@@ -36,11 +36,6 @@ namespace InventarioPatrimonial.Controllers
             return View();
         }
 
-        public IActionResult Usuario()
-        {
-            return View();
-        }
-
         public IActionResult OrdemDeServico()
         {
             return View();
@@ -58,12 +53,29 @@ namespace InventarioPatrimonial.Controllers
             }
             catch (Exception e)
             {
-
+                throw new Exception("Falha ao cadastrar!");
             }
             
             return View();
             
             
+        }
+        public IActionResult Usuario(UsuarioModel item)
+        {
+            try
+            {
+                using (var servico = new ServicoDeUsuario())
+                {
+                    servico.Salve(item);
+                }
+                ViewData["Message"] = "Registro realizado com sucesso!";
+            }
+            catch (Exception e)
+            {
+                throw new Exception("Falha ao cadastrar!");
+            }
+
+            return View();
         }
 
         public IActionResult TelaDeCadastroMovimentacao()
@@ -71,9 +83,9 @@ namespace InventarioPatrimonial.Controllers
             return View("Movimentacao");
         }
 
-        public IActionResult CadastroDeMovimentacao(MovimentacaoModel item)
+        public IActionResult TelaDeCadastroUsuario()
         {
-            return View();
+            return View("Usuario");
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
