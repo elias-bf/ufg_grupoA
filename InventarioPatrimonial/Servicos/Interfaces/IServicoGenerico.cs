@@ -6,6 +6,10 @@ namespace Servicos.Interfaces
 {
     public interface IServicoGenerico
     {
-        void Salvar();
+        void Salve(object dado);
+        void Atualize(string id);
+        void Obtenha(string id);
+        IList<object> ObtenhaTodos();
+
     }
 }

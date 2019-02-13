@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RUTEHELENA\\Documents\\github\\ufg_grupoA\\InventarioPatrimonial\\Negocio\\Negocio.csproj",
+      "projectUniqueName": "C:\\Users\\RUTEHELENA\\Documents\\github\\fork\\ufg_grupoA\\InventarioPatrimonial\\Negocio\\Negocio.csproj",
       "projectName": "Negocio",
-      "projectPath": "C:\\Users\\RUTEHELENA\\Documents\\github\\ufg_grupoA\\InventarioPatrimonial\\Negocio\\Negocio.csproj",
+      "projectPath": "C:\\Users\\RUTEHELENA\\Documents\\github\\fork\\ufg_grupoA\\InventarioPatrimonial\\Negocio\\Negocio.csproj",
       "packagesPath": "C:\\Users\\RUTEHELENA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RUTEHELENA\\Documents\\github\\ufg_grupoA\\InventarioPatrimonial\\Negocio\\obj\\",
+      "outputPath": "C:\\Users\\RUTEHELENA\\Documents\\github\\fork\\ufg_grupoA\\InventarioPatrimonial\\Negocio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
